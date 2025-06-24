@@ -89,16 +89,16 @@ python manage.py runserver
 # Usage
 1. Enter a Word:
 
-- Type a word (e.g., "spelligs") in the input field.
+   - Type a word (e.g., "spelligs") in the input field.
 
-- Click the "Pulse" button to check spelling.
+   - Click the "Pulse" button to check spelling.
 
 2. View Suggestions:
 
-- A scrollable list of corrections appears (e.g., "spelling (Score: 0.95)").
+   - A scrollable list of corrections appears (e.g., "spelling (Score: 0.95)").
 
-- Scroll if the list is long.
+   - Scroll if the list is long.
 
 3. Handle Errors:
 
-- If you submit an empty input, a message prompts you to enter a word.
+   - If you submit an empty input, a message prompts you to enter a word.
