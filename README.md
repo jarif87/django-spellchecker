@@ -1,4 +1,4 @@
-@"
+
 # SpellPulse
 
 ![SpellPulse Screenshot](/myproject/myapp/static/images/screenshot.png)
