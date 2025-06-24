@@ -1,7 +1,7 @@
-@"
+
 # SpellPulse
 
-![SpellPulse Screenshot](myapp/static/images/screenshot.png)
+![SpellPulse Screenshot](/myproject/myapp/static/images/screenshot.png)
 
 SpellPulse is a web-based spell checker built with Django, featuring a futuristic, cosmic-themed interface. It corrects misspelled words by suggesting valid alternatives, leveraging edit distance algorithms (up to two letter edits) and word probabilities. The application provides a compact, scrollable list of suggestions with confidence scores, ensuring a user-friendly experience on both desktop and mobile devices.
 
